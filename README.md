@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @celestinoagudo
-- 👀 I’m interested in Full Stack Web Development and Problem Solving
+- 👀 I’m interested in Full Stack Web Development, Generative AI and Problem Solving
 - 📫 More about me on: https://www.linkedin.com/in/celestino-agudo-b6a737136/
 
 <!---
